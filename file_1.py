@@ -6,3 +6,5 @@ def function_one():
     print('Hello world')
     print('First refactor')
     print('Running function one')
+    for i in range(0, 100):
+        print('Number: ' + str(i))
